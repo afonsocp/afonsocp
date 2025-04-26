@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Afonso!
 
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e desenvolvimento de soluções criativas. Atualmente, trabalho e estudo para me aprimorar cada vez mais nas áreas de programação e automação de processos.
+Sou apaixonado por tecnologia e desenvolvimento de soluções criativas. Atualmente, estudo Análise e Desenvolvimento de Sistemas na FIAP para me aprimorar cada vez mais nas áreas de programação e automação de processos.
 
 ---
 
